@@ -1,0 +1,25 @@
+Task3/
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── com
+│   │           └── n26
+│   │               └── petstore
+│   │                   └── api
+│   │                       └── PetApiClient.java
+│   ├── test
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── n26
+│   │   │           └── petstore
+│   │   │               ├── steps
+│   │   │               │   └── PetSteps.java
+│   │   │               └── TestRunner.java
+│   │   └── resources
+│   │       └── features
+│   │           └── PetCrud.feature
+├── reports
+│   └── test-report.html
+├── Dockerfile
+├── pom.xml
+└── README.md
